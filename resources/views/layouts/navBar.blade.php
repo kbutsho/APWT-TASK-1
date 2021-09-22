@@ -5,11 +5,11 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-item nav-link" href="/home">Home</a>
-        <a class="nav-item nav-link" href="/teams">Teams</a>
-        <a class="nav-item nav-link" href="/about">About</a>
-        <a class="nav-item nav-link" href="/contact">Contact</a>
-        <a class="nav-item nav-link" href="/service">Service</a>
+        <a class="nav-item nav-link text-danger fw-bold" href="/home">Home</a>
+        <a class="nav-item nav-link text-danger fw-bold" href="/teams">Teams</a>
+        <a class="nav-item nav-link text-danger fw-bold" href="/about">About</a>
+        <a class="nav-item nav-link text-danger fw-bold" href="/contact">Contact</a>
+        <a class="nav-item nav-link text-danger fw-bold" href="/service">Service</a>
       </div>
     </div>
   </nav>
